@@ -18,7 +18,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: [Solution URL](https://github.com/stkhalisha/single-price-grid-component)
-- Live Site URL: [live site URL](https://stkhalisha.github.io/single-price-grid-component/)
+- Live Site URL: [live site URL](https://stkhalisha-single-price-grid-component.vercel.app/)
 
 
 ### Built with
